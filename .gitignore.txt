@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Maven target directory
+target/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Environment specific
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
